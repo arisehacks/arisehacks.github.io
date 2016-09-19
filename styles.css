@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: "Arial";
+}
+
+#NewInfo {
+    font-weight:bold;
+    font-style:normal;
+    color:black;
+}
+
+#MeetingDetails {
+    font-weight:bold;
+    font-style:normal;
+    color:blue;
+}
