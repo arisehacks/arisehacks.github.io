@@ -4,12 +4,14 @@ body {
 }
 
 #NewInfo {
+    font-size: large;
     font-weight:bold;
     font-style:normal;
     color:black;
 }
 
 #MeetingDetails {
+    font-size: x-large;
     font-weight:bold;
     font-style:normal;
     color:blue;
